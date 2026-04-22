@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/VERSION-OB53-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/API-SUPERFAST⚡-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MADE%20BY-URxFF-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MADE%20BY-Revenge_mode-red?style=for-the-badge">
 </p>
 
 <p align="center">
