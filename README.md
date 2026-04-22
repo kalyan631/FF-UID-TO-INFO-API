@@ -292,7 +292,7 @@ ENTER YOUR GUEST ACCOUNT PASSWORD
 </p>
 
 <p align="center">
-📢 Telegram / YouTube: @Unknown_Reason  
+📢 Telegram / YouTube: @Revenge_mode 
 </p>
 
 ---
@@ -305,4 +305,4 @@ ENTER YOUR GUEST ACCOUNT PASSWORD
 
 ---
 
-<h2 align="center">🔥 MADE WITH ❤️ BY URxFF 🔥</h2>
+<h2 align="center">🔥 MADE WITH ❤️ BY URxFF and Black🔥</h2>
