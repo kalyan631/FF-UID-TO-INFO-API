@@ -1,7 +1,7 @@
 <h1 align="center">🔥 FREE FIRE UID TO INFORMATION API 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFB3&center=true&vCenter=true&width=600&lines=FREE+FIRE+UID+TO+INFO+API+OB53;FAST+%7C+SECURE+%7C+POWERFUL;MADE+BY+URxFF+%F0%9F%91%91">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFB3&center=true&vCenter=true&width=600&lines=FREE+FIRE+UID+TO+INFO+API+OB53;FAST+%7C+SECURE+%7C+POWERFUL;MADE+BY+BLACK+%F0%9F%91%91">
 </p>
 
 <p align="center">
